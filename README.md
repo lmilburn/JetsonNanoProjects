@@ -1,6 +1,7 @@
 # JetsonNanoProjects
 
-my-recognition-python: First instance of working with the Jetson Nano and image recognition. By default, uses GoogleNet and refers to the ImageNet database to classify arbitrary images specified on the command line. Not exactly a personal project, but a good starting point for adjusting to the Jetson Nano. 
+my-recognition-python: First instance of working with the Jetson Nano and image recognition. By default, uses GoogleNet and refers to the ImageNet database to classify arbitrary images specified on the command line. Not exactly a project, but a good starting point for adjusting to the Jetson Nano. 
+This script will not work outside of the Jetson Nano.
 
 What I learned:
 -Basic operations from the jetson.utils and jetson.inference libraries, with use of functions such as .loadImage() to obtain the arg image, and .imageNet() to obtain the arg network. 
