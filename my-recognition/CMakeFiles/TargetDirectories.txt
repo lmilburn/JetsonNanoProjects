@@ -1,0 +1,3 @@
+/home/lucikaika/my-recognition/CMakeFiles/rebuild_cache.dir
+/home/lucikaika/my-recognition/CMakeFiles/my-recognition.dir
+/home/lucikaika/my-recognition/CMakeFiles/edit_cache.dir
